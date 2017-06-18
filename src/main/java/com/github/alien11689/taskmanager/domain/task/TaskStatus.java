@@ -1,4 +1,4 @@
-package com.github.alien11689.task.domain.ports.dto.task;
+package com.github.alien11689.taskmanager.domain.task;
 
 public enum TaskStatus {
     NEW,

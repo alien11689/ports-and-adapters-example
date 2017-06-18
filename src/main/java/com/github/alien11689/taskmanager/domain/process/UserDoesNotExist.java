@@ -1,6 +1,6 @@
-package com.github.alien11689.task.domain.process;
+package com.github.alien11689.taskmanager.domain.process;
 
-import com.github.alien11689.task.domain.ports.dto.user.UserId;
+import com.github.alien11689.taskmanager.domain.task.UserId;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

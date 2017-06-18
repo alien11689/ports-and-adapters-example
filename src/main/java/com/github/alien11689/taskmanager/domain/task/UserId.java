@@ -1,4 +1,4 @@
-package com.github.alien11689.task.domain.ports.dto.user;
+package com.github.alien11689.taskmanager.domain.task;
 
 import lombok.AccessLevel;
 import lombok.EqualsAndHashCode;
